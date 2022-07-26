@@ -1,0 +1,11 @@
+.top-navbar {
+    border: 1px solid red;
+    justify-content: space-between;
+    height: 200px;
+}
+
+.top-navbar .navbar-list .item {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+}

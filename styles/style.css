@@ -1,1 +1,4 @@
+@import url("./resets/reset.css");
+@import url("./resets/normalize.css");
 @import url("./globals.css");
+@import url("./components/navbar.css");
