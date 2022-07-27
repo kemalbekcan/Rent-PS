@@ -1,6 +1,8 @@
 .top-navbar {
     justify-content: space-between;
-    height: 200px;
+    height: 150px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 .top-navbar .navbar-list .item {
@@ -19,8 +21,18 @@
     color: rgb(45, 187, 128);
 }
 
+.top-navbar .navbar-list input[type='text']{
+    width: 400px;
+    height: 25px;
+    border-radius: 25px;
+    border: 1px solid black;
+    outline: none;
+}
+
 .navbar {
     justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 .navbar a {
