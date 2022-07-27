@@ -65,35 +65,85 @@ function Navbar() {
         </li>
       </ul>
       <ul className="navbar flex list-none">
-        <li>
+        <li className="menu">
           <a href="">Teknoloji</a>
+          <div className="open-menu">
+            <a href="#">Link 1</a>
+            <a href="#">Link 2</a>
+            <a href="#">Link 3</a>
+          </div>
         </li>
-        <li>
+        <li className="menu">
           <a href="">Spor Malzemeleri</a>
+          <div className="open-menu">
+            <a href="#">Link 1</a>
+            <a href="#">Link 2</a>
+            <a href="#">Link 3</a>
+          </div>
         </li>
-        <li>
+        <li className="menu">
           <a href="">Kutu Oyunları</a>
+          <div className="open-menu">
+            <a href="#">Link 1</a>
+            <a href="#">Link 2</a>
+            <a href="#">Link 3</a>
+          </div>
         </li>
-        <li>
+        <li className="menu">
           <a href="">Giyim</a>
+          <div className="open-menu">
+            <a href="#">Link 1</a>
+            <a href="#">Link 2</a>
+            <a href="#">Link 3</a>
+          </div>
         </li>
-        <li>
+        <li className="menu">
           <a href="">Enstürman</a>
+          <div className="open-menu">
+            <a href="#">Link 1</a>
+            <a href="#">Link 2</a>
+            <a href="#">Link 3</a>
+          </div>
         </li>
-        <li>
+        <li className="menu">
           <a href="">Stüdyo Ekipmanları</a>
+          <div className="open-menu">
+            <a href="#">Link 1</a>
+            <a href="#">Link 2</a>
+            <a href="#">Link 3</a>
+          </div>
         </li>
-        <li>
+        <li className="menu">
           <a href="">Hırdavat</a>
+          <div className="open-menu">
+            <a href="#">Link 1</a>
+            <a href="#">Link 2</a>
+            <a href="#">Link 3</a>
+          </div>
         </li>
-        <li>
+        <li className="menu">
           <a href="">Outdoor</a>
+          <div className="open-menu">
+            <a href="#">Link 1</a>
+            <a href="#">Link 2</a>
+            <a href="#">Link 3</a>
+          </div>
         </li>
-        <li>
+        <li className="menu">
           <a href="">Düğün Gelinlik</a>
+          <div className="open-menu">
+            <a href="#">Link 1</a>
+            <a href="#">Link 2</a>
+            <a href="#">Link 3</a>
+          </div>
         </li>
-        <li>
+        <li className="menu">
           <a href="">Emlak</a>
+          <div className="open-menu">
+            <a href="#">Link 1</a>
+            <a href="#">Link 2</a>
+            <a href="#">Link 3</a>
+          </div>
         </li>
       </ul>
     </nav>
